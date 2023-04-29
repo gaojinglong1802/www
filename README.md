@@ -7,7 +7,7 @@
 
 ## Contact me：
 
-[![Telegram](https://img.shields.io/badge/Telegram-@gaojinglong-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://404.isuii.top)
+[![Telegram](https://img.shields.io/badge/Telegram-@gaojinglong-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://gaojinglong.gitee.io/gaojinglong.gitee.io/404/)
 
 [![QQ](https://img.shields.io/badge/QQ-184439103-00BFFF?logo=QQ&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=lA4SccetMtrCf6vyTfXWW_zRJ07wZBct&noverify=0)
 
